@@ -1,0 +1,41 @@
+Employee Survey – Power BI Dashboard
+
+**Overview**
+This project analyzes an **Employee Engagement Survey** with 14,181 completed responses (14,196 total).  
+Each row is one question answered by one employee. The dashboard highlights overall sentiment, department differences and weak questions.
+
+**Key Insights**
+- Total responses analyzed: **14,196**
+- Unique respondents: **14,181**
+- Completion rate: **96.4%**
+- Average score: **2.98 / 5**
+
+**Department performance**
+- Highest department: **Family Justice Center** (3.61)
+- Lowest department: **Sheriff’s Department** (2.46)
+- Department spread: **1.14 points**
+
+**Job level insights**
+- Directors average: **3.10**
+- Staff average: **2.97**
+
+**Top scoring questions**
+1. “I know what is expected of me at work” – **3.49**  
+2. “My supervisor, or someone at work, seems to care about me as a person” – **3.29**  
+3. “At work, I have the opportunity to do what I do best every day” – **3.14**
+
+**Lowest scoring questions**
+1. “I have a best friend at work” – **2.60**  
+2. “In the last seven days, I have received recognition or praise for doing good work” – **2.80**  
+3. “My supervisor holds employees accountable for performance” – **2.95**
+
+**Recommendations**
+- Improve recognition and regular praise.  
+- Strengthen supervisor accountability habits.  
+- Build stronger peer relationships in teams.  
+- Focus HR support on the Sheriff’s Department.  
+- Close the leadership gap between Directors and Staff.  
+
+**Files in this repo**
+- Power BI dashboard  
+- cleaning steps, DAX, and visuals  
